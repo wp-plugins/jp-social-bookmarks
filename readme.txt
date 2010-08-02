@@ -33,5 +33,8 @@ On the tutorial page; http://www.jpreece.com/tutorials/wordpress/jp-social-bookm
 
 == Changelog ==
 
+= 0.2 =
+* Minor bug fix on home pagea
+
 = 0.1 =
 * First release
