@@ -4,7 +4,7 @@
 Plugin Name: JP-Social-Bookmarks
 Plugin URI: http://www.jpreece.com/tutorials/wordpress/jp-social-bookmarks/
 Description: Adds social bookmarks to your website
-Version: 0.1
+Version: 0.2
 Author: Jonathan Preece
 Author URI: http://www.jpreece.com
 License: GPL2
