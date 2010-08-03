@@ -1,15 +1,5 @@
 <?php //Takes care of the settings panel on the admin page
 
-/*
-Plugin Name: JP-Social-Bookmarks
-Plugin URI: http://www.jpreece.com/tutorials/wordpress/jp-social-bookmarks/
-Description: Adds social bookmarks to your website
-Version: 0.2
-Author: Jonathan Preece
-Author URI: http://www.jpreece.com
-License: GPL2
-*/
-
 /*  Copyright 2010 Jonathan Preece  (email : info@jpreece.com )
 
     This program is free software; you can redistribute it and/or modify

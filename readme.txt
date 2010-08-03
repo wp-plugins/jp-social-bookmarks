@@ -11,10 +11,6 @@ Adds social bookmarks to your website
 == Description ==
 Adds social bookmarks to your website
 
-= Important URL's =
-[Plugin Home](http://www.jpreece.com/tutorials/wordpress/jp-social-bookmarks/) |
-[Twitter](http://twitter.com/jonpreecebsc)
-
 == Installation ==
 * Upload `jp-social-bookmarks` folder to the `/wp-content/plugins/` directory
 * Activate the plugin through the 'Plugins' menu in WordPress
@@ -34,7 +30,7 @@ On the tutorial page; http://www.jpreece.com/tutorials/wordpress/jp-social-bookm
 == Changelog ==
 
 = 0.2 =
-* Minor bug fix on home pagea
+* Minor bug fix on home page
 
 = 0.1 =
 * First release
