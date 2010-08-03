@@ -4,7 +4,7 @@ Donate link: http://www.jpreece.com
 Tags: social,bookmarks,links,favourites
 Requires at least: 2.7
 Tested up to: 3.0
-Stable tag: 0.1
+Stable tag: 0.2
 
 Adds social bookmarks to your website
 
